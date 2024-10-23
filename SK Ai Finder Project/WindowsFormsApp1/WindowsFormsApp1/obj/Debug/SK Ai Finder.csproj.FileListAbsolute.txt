@@ -1,0 +1,15 @@
+D:\Education\3) National Diploma ICT NVQ 5\02) Miss (Assignments,presentation)\sem 2\Database 2\SK Ai Finder Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Education\3) National Diploma ICT NVQ 5\02) Miss (Assignments,presentation)\sem 2\Database 2\SK Ai Finder Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Education\3) National Diploma ICT NVQ 5\02) Miss (Assignments,presentation)\sem 2\Database 2\SK Ai Finder Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Education\3) National Diploma ICT NVQ 5\02) Miss (Assignments,presentation)\sem 2\Database 2\SK Ai Finder Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SK Ai Finder.csproj.AssemblyReference.cache
+D:\Education\3) National Diploma ICT NVQ 5\02) Miss (Assignments,presentation)\sem 2\Database 2\SK Ai Finder Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateAccountForm.resources
+D:\Education\3) National Diploma ICT NVQ 5\02) Miss (Assignments,presentation)\sem 2\Database 2\SK Ai Finder Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+D:\Education\3) National Diploma ICT NVQ 5\02) Miss (Assignments,presentation)\sem 2\Database 2\SK Ai Finder Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Education\3) National Diploma ICT NVQ 5\02) Miss (Assignments,presentation)\sem 2\Database 2\SK Ai Finder Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SK Ai Finder.csproj.GenerateResource.cache
+D:\Education\3) National Diploma ICT NVQ 5\02) Miss (Assignments,presentation)\sem 2\Database 2\SK Ai Finder Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SK Ai Finder.csproj.CoreCompileInputs.cache
+D:\Education\3) National Diploma ICT NVQ 5\02) Miss (Assignments,presentation)\sem 2\Database 2\SK Ai Finder Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Education\3) National Diploma ICT NVQ 5\02) Miss (Assignments,presentation)\sem 2\Database 2\SK Ai Finder Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Education\3) National Diploma ICT NVQ 5\02) Miss (Assignments,presentation)\sem 2\Database 2\SK Ai Finder Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginSuccessForm.resources
+D:\Education\3) National Diploma ICT NVQ 5\02) Miss (Assignments,presentation)\sem 2\Database 2\SK Ai Finder Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\Education\3) National Diploma ICT NVQ 5\02) Miss (Assignments,presentation)\sem 2\Database 2\SK Ai Finder Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SK Ai Finder.csproj.CopyComplete
+D:\Education\3) National Diploma ICT NVQ 5\02) Miss (Assignments,presentation)\sem 2\Database 2\SK Ai Finder Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NuGet.Frameworks.dll
